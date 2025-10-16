@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "图片魔盒 - AI智能图片处理工具",
+  title: "图片百宝箱 - AI智能图片处理工具",
   description: "专业的图片处理平台，提供图片压缩、智能抠图、图片识别、AI生图等多种功能",
 };
 

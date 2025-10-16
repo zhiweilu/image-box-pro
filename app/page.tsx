@@ -38,7 +38,7 @@ export default function Home() {
       <header className="pt-12 pb-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-purple-600 dark:from-blue-400 dark:to-purple-400 bg-clip-text text-transparent">
-            图片魔盒
+            图片百宝箱
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300">
             专业的 AI 图片处理工具，让图片处理变得简单高效
@@ -95,7 +95,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="py-8 px-4 text-center text-gray-500 dark:text-gray-400">
-        <p>© 2025 图片魔盒. 基于 AI 技术的智能图片处理平台</p>
+        <p>© 2025 图片百宝箱. 基于 AI 技术的智能图片处理平台</p>
       </footer>
     </div>
   );

@@ -28,7 +28,7 @@ export default function RemoveBgPage() {
             href="/" 
             className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent hover:opacity-80 transition-opacity"
           >
-            ← 图片魔盒
+            ← 图片百宝箱
           </Link>
         </div>
       </header>
