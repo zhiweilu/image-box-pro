@@ -27,6 +27,9 @@ export default function AboutModal({ isOpen, onClose }: AboutModalProps) {
           <p className="text-gray-600 dark:text-gray-400">
             扫码了解更多
           </p>
+          <p className="text-sm text-gray-500 dark:text-gray-500 mt-2">
+            作者：鹿途AI智能体
+          </p>
         </div>
 
         {/* QR Code */}

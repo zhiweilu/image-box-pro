@@ -105,6 +105,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="py-8 px-4 text-center text-gray-500 dark:text-gray-400">
         <p>© 2025 图片百宝箱. 基于 AI 技术的智能图片处理平台</p>
+        <p className="mt-2 text-sm">由 鹿途AI智能体 开发</p>
       </footer>
     </div>
   );
